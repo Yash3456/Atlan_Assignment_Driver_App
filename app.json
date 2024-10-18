@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Ridewave-Driver",
-    "slug": "Ridewave-Driver",
+    "name": "Dropwave-Driver",
+    "slug": "Dropwave-Driver",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "scheme": "Ridewave-Driver",
+    "scheme": "Dropwave-Driver",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -20,7 +20,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.becodemy.Ridewave-Driver",
+      "package": "com.becodemy.Dropwave-Driver",
       "config": {
         "googleMaps": {
           "apiKey": ""
